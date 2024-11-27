@@ -5,7 +5,7 @@ metadata:
   namespace: dev
 spec:
   ports:
-  - port: 80
+  - port: 8090
     protocol: TCP
   selector:
     app: app

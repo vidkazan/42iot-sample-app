@@ -18,4 +18,4 @@ spec:
       - name: app
         image: fcody/iot:v1
         ports:
-        - containerPort: 8090
+        - containerPort: 80

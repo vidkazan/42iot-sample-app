@@ -4,8 +4,8 @@ metadata:
   name: app
 spec:
   ports:
-  - port: 8090
+  - port: 80
     protocol: TCP
-    targetPort: 8090
+    targetPort: 80
   selector:
     app: app

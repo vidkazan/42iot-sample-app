@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: app
-        image: fcody/iot:v1
+        image: fcody/iot:v2
         ports:
         - containerPort: 80
